@@ -1,0 +1,2 @@
+# JPII_Taski_znajdowanie_liczb_pierwszych
+Opis
